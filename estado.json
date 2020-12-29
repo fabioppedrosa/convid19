@@ -1,0 +1,240 @@
+{'type': 'FeatureCollection',
+ 'features': [{'type': 'Feature',
+   'properties': {'GEO_ID': '0500000US01001',
+    'STATE': '01',
+    'COUNTY': '001',
+    'NAME': 'Autauga',
+    'LSAD': 'County',
+    'CENSUSAREA': 594.436},
+   'geometry': {'type': 'Polygon',
+    'coordinates': [[[-86.496774, 32.344437],
+      [-86.717897, 32.402814],
+      [-86.814912, 32.340803],
+      [-86.890581, 32.502974],
+      [-86.917595, 32.664169],
+      [-86.71339, 32.661732],
+      [-86.714219, 32.705694],
+      [-86.413116, 32.707386],
+      [-86.411172, 32.409937],
+      [-86.496774, 32.344437]]]},
+   'id': '01001'}
+
+
+[
+	{
+		"codigo_uf" : 11,
+		"uf" : "RO",
+		"nome" : "Rondônia",
+		"latitude" : "-10.83",
+		"longitude" : "-63.43",
+		"id": "11"
+	},
+	{
+		"codigo_uf" : 12,
+		"uf" : "AC",
+		"nome" : "Acre",
+		"latitude" : "-8.77",
+		"longitude" : "-70.55",
+		"id":"12"
+	},
+	{
+		"codigo_uf" : 13,
+		"uf" : "AM",
+		"nome" : "Amazonas",
+		"latitude" : "-3.47",
+		"longitude" : "-65.10",
+		"id":"13"
+	},
+	{
+		"codigo_uf" : 14,
+		"uf" : "RR",
+		"nome" : "Roraima",
+		"latitude" : "1.99",
+		"longitude" : "-61.33",
+		"id":"14"
+	},
+	{
+		"codigo_uf" : 15,
+		"uf" : "PA",
+		"nome" : "Pará",
+		"latitude" : "-3.79",
+		"longitude" : "-52.48",
+		"id":"15"
+	},
+	{
+		"codigo_uf" : 16,
+		"uf" : "AP",
+		"nome" : "Amapá",
+		"latitude" : "1.41",
+		"longitude" : "-51.77",
+		"id":"16"
+	},
+	{
+		"codigo_uf" : 17,
+		"uf" : "TO",
+		"nome" : "Tocantins",
+		"latitude" : "-9.46",
+		"longitude" : "-48.26",
+		"id":"17"
+	},
+	{
+		"codigo_uf" : 21,
+		"uf" : "MA",
+		"nome" : "Maranhão",
+		"latitude" : "-5.42",
+		"longitude" : "-45.44",
+		"id":"21"
+	},
+	{
+		"codigo_uf" : 22,
+		"uf" : "PI",
+		"nome" : "Piauí",
+		"latitude" : "-6.60",
+		"longitude" : "-42.28",
+		"id":"22"
+	},
+	{
+		"codigo_uf" : 23,
+		"uf" : "CE",
+		"nome" : "Ceará",
+		"latitude" : "-5.20",
+		"longitude" : "-39.53",
+		"id":"23"
+	},
+	{
+		"codigo_uf" : 24,
+		"uf" : "RN",
+		"nome" : "Rio Grande do Norte",
+		"latitude" : "-5.81",
+		"longitude" : "-36.59",
+		"id":"24"
+	},
+	{
+		"codigo_uf" : 25,
+		"uf" : "PB",
+		"nome" : "Paraíba",
+		"latitude" : "-7.28",
+		"longitude" : "-36.72",
+		"id":"25"
+	},
+	{
+		"codigo_uf" : 26,
+		"uf" : "PE",
+		"nome" : "Pernambuco",
+		"latitude" : "-8.38",
+		"longitude" : "-37.86",
+		"id":"26"
+	},
+	{
+		"codigo_uf" : 27,
+		"uf" : "AL",
+		"nome" : "Alagoas",
+		"latitude" : "-9.62",
+		"longitude" : "-36.82",
+		"id":"27"
+	},
+	{
+		"codigo_uf" : 28,
+		"uf" : "SE",
+		"nome" : "Sergipe",
+		"latitude" : "-10.57",
+		"longitude" : "-37.45",
+		"id":"28"
+	},
+	{
+		"codigo_uf" : 29,
+		"uf" : "BA",
+		"nome" : "Bahia",
+		"latitude" : "-13.29",
+		"longitude" : "-41.71",
+		"id":"29"
+	},
+	{
+		"codigo_uf" : 31,
+		"uf" : "MG",
+		"nome" : "Minas Gerais",
+		"latitude" : "-18.10",
+		"longitude" : "-44.28",
+		"id":"31"
+	},
+	{
+		"codigo_uf" : 32,
+		"uf" : "ES",
+		"nome" : "Espírito Santo",
+		"latitude" : "-19.19",
+		"longitude" : "-40.34",
+		"id":"32"
+	},
+	{
+		"codigo_uf" : 33,
+		"uf" : "RJ",
+		"nome" : "Rio de Janeiro",
+		"latitude" : "-22.25",
+		"longitude" : "-42.66",
+		"id":"33"
+	},
+	{
+		"codigo_uf" : 35,
+		"uf" : "SP",
+		"nome" : "São Paulo",
+		"latitude" : "-22.19",
+		"longitude" : "-48.79",
+		"id":"35"
+	},
+	{
+		"codigo_uf" : 41,
+		"uf" : "PR",
+		"nome" : "Paraná",
+		"latitude" : "-24.89",
+		"longitude" : "-51.55",
+		"id":"41"
+	},
+	{
+		"codigo_uf" : 42,
+		"uf" : "SC",
+		"nome" : "Santa Catarina",
+		"latitude" : "-27.45",
+		"longitude" : "-50.95",
+		"id":"42"
+	},
+	{
+		"codigo_uf" : 43,
+		"uf" : "RS",
+		"nome" : "Rio Grande do Sul",
+		"latitude" : "-30.17",
+		"longitude" : "-53.50",
+		"id":"43"
+	},
+	{
+		"codigo_uf" : 50,
+		"uf" : "MS",
+		"nome" : "Mato Grosso do Sul",
+		"latitude" : "-20.51",
+		"longitude" : "-54.54",
+		"id":"50"
+	},
+	{
+		"codigo_uf" : 51,
+		"uf" : "MT",
+		"nome" : "Mato Grosso",
+		"latitude" : "-12.64",
+		"longitude" : "-55.42",
+		"id":"51"
+	},
+	{
+		"codigo_uf" : 52,
+		"uf" : "GO",
+		"nome" : "Goiás",
+		"latitude" : "-15.98",
+		"longitude" : "-49.86",
+		"id":"52"
+	},
+	{
+		"codigo_uf" : 53,
+		"uf" : "DF",
+		"nome" : "Distrito Federal",
+		"latitude" : "-15.83",
+		"longitude" : "-47.86",
+		"id":"53"
+	}
+]
